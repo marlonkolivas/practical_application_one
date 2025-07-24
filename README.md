@@ -1,5 +1,5 @@
 # Required Assignment 5.1: Will the Customer Accept the Coupon?
-
+Jupyter Notebook Assignment Link: https://github.com/marlonkolivas/practical_application_one/blob/main/practical_application_one.ipynb
 ## Coupon Acceptance Analysis
 This project explores consumer behavior around coupon acceptance, specifically focusing on **Bar** and **Coffee House** coupons. The analysis uses visualization and statistical methods to understand how different demographic and contextual factors influence the likelihood of coupon acceptance.
 
