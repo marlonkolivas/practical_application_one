@@ -59,3 +59,10 @@ This data is from the UCI Machine Learning Repository and was collected via a su
      The bar chart titled “Bar Coupon Acceptance Rate: Three Target Groups” compares how likely three groups are to accept bar coupons. The group with the highest acceptance rate (70%) comprises monthly bar patrons without children or not widows. Socially active individuals without dependents or emotional burdens are more receptive to bar offers. The second group (under 30 who frequent bars) has a slightly lower acceptance rate (68–69%). Younger individuals are open to deals but may be less consistent in accepting them. The third group (dining out frequently and earning less than $50K) has the lowest acceptance rate (45%). Their spending priorities may not align with bar environments due to budget constraints. Lifestyle and personal circumstances seem to influence coupon receptiveness more than age or income alone.
 
    # Independent Investigation
+
+Using the bar coupon example as motivation, you are to explore one of the other coupon groups and try to determine the characteristics of passengers who accept the coupons.<br>
+Kindly see attached Jupyter Notebook for the Independent Investigation 
+
+**Next step and Recommendations** 
+
+Feature engineering, classification models, and data cleaning can enhance coupon targeting. Targeted promotions based on demographics and occupations, along with personalized offers, can improve acceptance rates.
